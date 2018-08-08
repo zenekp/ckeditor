@@ -11,17 +11,10 @@
 
     "require": {
         "php": ">=5.5.9",
-        "illuminate/support": "5.1 - 5.3"
+        "illuminate/support": "5.1 - 5.4"
     },
 
     "autoload": {
         "psr-4": { "Kalnoy\\Cruddy\\CKEditor\\": "src/" }
-    },
-
-    "extra": {
-        "branch-alias": {
-            "dev-master": "v0.5.x-dev"
-        }
     }
-
 }
